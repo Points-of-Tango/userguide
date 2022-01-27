@@ -1,3 +1,7 @@
+layout: page
+title: "Home"
+permalink: https://points-of-tango.github.io/index
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Points-of-Tango/userguide.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
